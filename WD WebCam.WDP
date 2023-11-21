@@ -1,0 +1,92 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD WebCam
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD WebCam project
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAADghMZFcvVTXOxEmn8pKY9SNZxd2EjAFWzO1i++oOrTZWSRSOBtL18AcZzka1jitjdgytuPrEoV81Q2C3mKGTcIYvFleD5xrhclaGLFus7XdEoowLqESI98OGBhc8/xj5w582LtLYDorbUrfeALfn0m8Rngx3AdalGW3eJxyz15yEt57g1iGyZgo35ACvi55fg5+fkNR28XfExWRFmWq/RzOEVcEBnwxxcLcu8X3KV+vGC38KSYeksMAWGtredmVNvCY80+DjbJVaLrxxTC9NTni5HFhRTYxHWDq/ijPWLSx8Stgx25r0RMJ/N5WQCAEY6NC55VARZAMK6IRVIN5CZ5FaYKPxBPbby3sqk6F2+2KZGveFE3BNTzZsUvf6AIW+O6+F/8WevmQCJe2kIGs6SLdbGOCRVix8Ow9HGL10FHF9IY5yjQRJM7yBoW8r8jWcS3lr65TNPJrU8z2z3jXTRtU+VAYNvN554bsX1f5uB7MXY669v2rKqPh4Q9xYnM+cmzKiqI9MATPhWLpBR2GeEtw0fNNEPSGIKEUWIMydSUgal6yeeslK9pQOp8RDxy+0h2wWLReJ/c824HzNO2bQSJ03b9sKd3frdLbwHYUqR+bbumsqAdpE7YYsGzieEmlrs6WS/74JHfKoFHGEHZgHQBQZLYoupN9SoCUIGtOEMt+GpEBKlQphg8m9MaFLf1HcUniE6D4Dp5lCa4kVd5ICA0+osZi1bnyTYs7Jg/tbXcT8OrxOrcNet+HItsbat41x6zIfYvvPVN1ITzhKtOCHRhNk1XvMuFvC5qsEtfR09wqnPrfc3fXJz4ppxHZ8Ht6XaJLwg7/AOkle333O2HqibuPq1ISpVf4CpBImkawSeEa1D1vyb9cGEZtXZlRFBQd/gzE8zEiuRXfpZi+kYEHInXs58PzRMhP9W9ksJt8vQu0Cty99fJIXOjfuhSjPPw8sJbtYFwi4m/XurMhsNNzDnxG4zHfkdHyd1VqtfjChmF0Kasb5Wy1POOXtDVzORU447VMnvs2SS5/76SOzjbMWg3rZbySxsHIWsVIBoow8f0AX5u4sAFwN3DH4u0Qdo9gG8bDfIR2Ttpwch7ONeE0yMiWJ356Qh9Tm5RrVboFwlB1ZuAMOtohegJaWRWrHtC/H7/mqWMjo0peODrhV21E4h7EvbozIf5B+Tq+uMhglXZPfL9G43VkLmDKpaBZinEGB+9VPJ5HIojczQuRNUUnAQphxf2vqdWdqcml7l/BNlsR36+6oBQ6K1ktOs1X2ZSWb64XNZeCBsC/wfkHlkMFUa/x803/oKDGytG6yQNPd2znT/TJ3Dvch0Qks/c3mryM0uJhnV7f8lhc8s+yZ8l21F57OHEGbQR6P7VXPXuXOmeA4PqnDrByULyqkUWv7gwfQZC8y4g3jLb5/OMlmXpS766UcxAkaqlpHoSPV7IKBa8X2xPFz3d83s1rcgauK8ROqF9GXkG/IagruK2VA8Wy8ZCqUMrG/cLNo2Vw5wA+dvYoKkOh3DLRWB98WQf6tYqeUZLRMR/oXjawfdweg8Ecu06+Kqeya9Uq5COqBgc+A1t+EQdOE7uG+bzxcaYpTwAsj4/YBpNN2St2FS3tMWJY2lRlaGBIBrCDWPOpIEgb9kDjshEECBHsXGH39gDaxIaAtj9/MMi+u5DYnoII39rhFZQ4EKPWekxUIJ/bund4HlznXOdLWwEYeP6AargVbA31w2TVg0JXccEOXJwoUZ5WExllsE1t/PAYg+D1LmrxI9fg5dSrigXmY1/LJsTNLgvRF5Ga+MxP5CvDiP9OQcbZzLrSeZdI+6rvfJbpPKrM/EM/So8IdhuYiJ1OftL0dCWCtKjussHvsaD546TkL0SoUF4x1YqPkYUPhqaumAeYKKs5r9apbEEPqYyjBeeKRWzJtw7HZKas7cpyDdtnVX2pEJz4wnkjuQdL4Pvp9e6aOU75WglOHSXasV7ZpLPWmoxyBfOEcuR0YwM06p6gZoauqC7XEj6H+vi4kiSIRx2LSK4waqSPgUaYz6UXn1kmgjkELGVMrGSFG9hzed5oTzEQRj+ojz+9Wz0+D+G6G9qArxyinAh15c6KAwJy0Qw5C+6ozo2GCP4yYeqeRrnWOHaOvcacTDCF1782xFSW/Cb
+ configurations :
+  -
+    name : WD WebCam
+    internal_properties : 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
+    configuration_id : 1194877135012737035
+    type : 1
+    generation_name : WD WebCam.exe
+    version :
+     major_version : 22
+     generation_version : 1
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\camera.ico
+    language : 2
+ elements :
+  identifier : 0x4acc54c1000b906d
+  elements :
+   -
+     name : TEST_WEBCAM
+     identifier : 0x426e7f880026ff1a
+     internal_properties : CAAAAAgAAADeRDbq2YauQQn8/1shFLmiBhlVlRScJBNW7bPMgLJarkL41wUe4nlmatHLNf3zjwHLSw==
+     physical_name : .\TEST_WEBCAM.wxt
+     type : 17
+   -
+     name : COL_GlobalProcedures
+     identifier : 0x447ddcef0021c5bb
+     internal_properties : CAAAAAgAAADmbM7S0Y6mSRYP1q251cAgnDlbA87L5UJ25cBkq3mTlbtHkCUL/fIuL+nTLfXrlwnzcw==
+     physical_name : .\COL_GlobalProcedures.wdg
+     type : 7
+   -
+     name : WIN_WEBCAM
+     identifier : 0x3daa866f01ddaddb
+     internal_properties : CAAAAAgAAADWvD5iQT52ecGkt5PpywF6ZgfNJcoULH/ijotZ7U3HGSvbMLxWqkGuopkD/YV7B/nDQw==
+     physical_name : .\WIN_WEBCAM.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      EXTERN  "WinConst.wl"
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD WebCam
+     identifier : 0x4acc54c1000e9119
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
